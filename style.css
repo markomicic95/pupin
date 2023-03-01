@@ -1,0 +1,134 @@
+    body {
+        width: 960px;
+        margin: 20px;
+        background-color: black;
+        }
+    
+    header {
+            
+            padding: 8px 0 8px 0;
+           
+        }
+
+    h1 {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 38px;
+        color: rgb(30, 255, 0);
+        text-decoration:underline;
+        text-shadow:  2px 2px 4px white;
+        }
+    
+
+    h2 {
+        font-family: monospace;
+        font-size: 30px;
+        color: #15ff00;
+        text-align: center;
+    
+    }
+
+    h3 {
+        font-family: monospace;
+        font-size: 26px;
+        color: hsl(108, 100%, 50%);
+    }
+
+    nav {
+            padding: 16px 0 16px 0;
+          
+         
+        }
+
+    a {
+            margin-right: 6px;
+            font-size: 20px;
+            
+        }
+
+    section {
+            float: right;
+            width: 600px;
+            padding: 0 8px 0 0;
+           
+            margin: 0 auto;
+            box-sizing: border-box;
+         
+        }
+
+    aside {
+            float: left;
+            width: 300px;
+            padding: 0 0 0 8px;
+            box-sizing: border-box;
+            margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.062);
+        border: 4px dotted rgb(21, 255, 0);
+        }
+
+    p {
+        font-family: monospace;
+        color: rgb(255, 255, 255);
+        font-size: 16px;
+    }
+    
+    #links {
+        text-align: center;
+        color:rgb(115, 255, 0);
+        font-family: monospace;
+        font-size: 18px;
+        text-decoration: underline;
+    }
+
+    #pupin1 {
+        width: 230px;
+        border: 4px dotted rgb(21, 255, 0);
+    }
+
+    #pupin2 {
+        width: 400px;
+        border: 4px dotted hsl(115, 100%, 50%);
+    }
+
+    #pupin3 {
+        width: 300px;
+        border: 4px dotted #15ff00;
+    }
+
+    #tabela {
+        width: 600px;
+        border: 4px dotted rgb(21, 255, 0);
+        color: white;
+        background-color: rgba(255, 255, 255, 0.062);
+        font-family: arial, sans-serif;
+        text-align: center;}
+
+    th {
+        padding: 18px;
+        
+        }
+
+    th td {
+        border: solid 1px black;
+      }
+
+    tr {
+        background-color: #666565;
+      }
+      
+    td {
+        padding: 8px;
+      }  
+    
+    
+    #heading {
+        background-color: rgb(41, 41, 41);
+        font-family: monospace;
+        font-size: 18px;
+    }
+
+
+    ul li {
+        list-style-type: square;
+        color: lime;
+    }
